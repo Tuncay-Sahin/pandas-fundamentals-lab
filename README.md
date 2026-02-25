@@ -141,3 +141,9 @@ Temel pandas becerilerini:
 - portföy standardında
 
 bir yapıya dönüştürmek hedeflenmiştir.
+
+---
+Kurulum ve Çalıştırma Rehberi → [SETUP_GUIDE.md](./SETUP_GUIDE.md)
+---
+
+
